@@ -1,0 +1,47 @@
+/*DOM*/
+html, body {
+	margin: 0;
+	padding: 0;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+}
+
+body {
+	background: slategrey;
+}
+
+/*ID*/
+
+/*Class*/
+
+
+/*Multi*/
+
+
+/*Keyframes*/
+
+/*Responsive*/
+/* 600px and down */
+@media only screen and (max-width: 600px) {
+
+}
+
+/* 600px and up */
+@media only screen and (min-width: 600px) {
+
+}
+
+/* 768px and up */
+@media only screen and (min-width: 768px) {
+
+} 
+
+/* 992px and up */
+@media only screen and (min-width: 992px) {
+
+} 
+
+/* 1200px and up */
+@media only screen and (min-width: 1200px) {
+
+}
